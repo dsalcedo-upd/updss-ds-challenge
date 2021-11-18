@@ -1,5 +1,5 @@
 # Challenge Number 01
-**Release Date:** 19-Nov-2021
+**Release Date:** 19-Nov-2021 10:00 PM GMT+8
 **Time Duration:** 24 Hours
 **Level of Difficulty:** Beginner
 **Number of Items:** 3
