@@ -8,6 +8,7 @@
 Submit a jupyter notebook file (.ipynb) with your team name. Follow the format: **C1-UPDSS-[TEAM NAME].ipynb**. 
 Example: `C1-UPDSS-Team Titans`. 
 If a library is specifically indicated to be used, your code is restricted to be only using such. Otherwise, any library is allowed.
+Link to submission form: `https://forms.gle/MKTQWjRgiaZ1GNNR7`
 
 Maximum points that can be earned: `1000 points`
 Point distribution 
